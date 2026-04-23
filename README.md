@@ -285,7 +285,7 @@ The client enforces Space-Track's usage guidelines proactively:
 ## Development Setup
 
 ```bash
-git clone https://github.com/your-org/spacetrack-mcp
+git clone https://github.com/harris-mohamed/spacetrack-mcp
 cd spacetrack-mcp
 
 # Create virtual environment
