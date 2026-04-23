@@ -1,3 +1,5 @@
+[![PyPI](https://img.shields.io/pypi/v/spacetrack-mcp)](https://pypi.org/project/spacetrack-mcp/)
+
 # spacetrack-mcp
 
 An MCP (Model Context Protocol) server for [Space-Track.org](https://www.space-track.org) that exposes satellite catalog data, Two-Line Elements (TLEs), orbital propagation, conjunction warnings, and reentry predictions as tools consumable by Claude Desktop and any other MCP-compatible AI client.
